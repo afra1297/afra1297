@@ -3,7 +3,7 @@
 - 🔭 I’m currently looking for a student position to apply my skills in tech development. 
 - 🌱 I’m currently studying Computer Science at Bar-Ilan University. Expected graduation: Winter 2026.
 - 👯 I’m a highly motivated team player with strong self-learning ability.
-- ⚡ Skills:
+- ⚡ Skills:  
   -Programming Languages: Java, C, C++, Python, Assembly
   -Web Development: MERN stack (MongoDB, Express, React.js, Node.js), HTML, CSS, JavaScript
   -Tools & Practices: Jira, Docker, Linux Shell, Bash Scripting, Jest, TDD 
