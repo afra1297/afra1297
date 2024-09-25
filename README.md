@@ -1,6 +1,6 @@
 ## Hi there 👋
 ## Some info about me:
-- 🔭 I’m currently looking for a student position to apply my skills in tech development. 
+- 🔭 I’m currently looking for a Software Engineer student position. 
 - 🌱 I’m currently studying Computer Science at Bar-Ilan University. Expected graduation: Winter 2026.
 - 👯 I’m a highly motivated team player with strong self-learning ability.
 - ⚡ Skills:  
