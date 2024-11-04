@@ -7,7 +7,7 @@
   -Programming Languages: Java, C, C++, Python, Assembly  
   -Web Development: MERN stack (MongoDB, Express, React.js, Node.js), HTML, CSS, JavaScript  
   -Tools & Practices: Jira, Docker, Linux Shell, Bash Scripting, Jest, TDD 
-- 📫 How to reach me:
+- 📫 How to reach me:  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-afraimov-21a0191b9/)
 
   
